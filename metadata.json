@@ -1,0 +1,6 @@
+{
+  "name": "RTI-Build What Moves India",
+  "description": "Your Right. Your Information. Your Power.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
